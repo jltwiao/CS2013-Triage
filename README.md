@@ -1,5 +1,5 @@
 # Triage App
-Members: Joshua and Andrew
+Members: Joshua and Andrew <br>
 This lab we create a chemical alien invasion scenario for triaging patients. We create rules and the structure of the app and allow AI (ChatGPT) to fill in the code.
 ## Triage Rules
 Our rules are as follows:
